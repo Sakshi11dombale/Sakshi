@@ -1,11 +1,3 @@
-<!-- ========================================================= -->
-
-<!--                    SAKSHI DOMBALE                         -->
-
-<!--             PREMIUM LIGHT GITHUB PROFILE                  -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,16,18,20&text=Sakshi%20Dombale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Data&descAlignY=62&descSize=19" width="100%"/>
@@ -32,7 +24,7 @@
 
 <div align="center">
 
-# ✦ Who Am I?
+## ✦ Who Am I?
 
 ### **A developer who learns by building.**
 
@@ -100,7 +92,7 @@ Insights
 
 <div align="center">
 
-```text id="r5u7m1"
+```text
                               ✦
                          SAKSHI DOMBALE
                               │
@@ -358,216 +350,4 @@ Java programming work focused on **core programming concepts and development pra
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','Python/Data','Machine%20Learning','Dashboard'],datasets:[{data:[2,2,1,1]}]},options:{plugins:{legend:{position:'bottom'}}}}&width=700&height=350&backgroundColor=white" width="700"/>
-
-</div>
-
-<p align="center">
-<i>A snapshot of the six publicly visible projects currently highlighted on my profile.</i>
-</p>
-
----
-
-# 🧭 My Learning Journey
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 01
-
-## ☕
-
-### Programming
-
-Java
-Python
-OOP
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 02
-
-## 📊
-
-### Data
-
-Analysis
-Visualization
-Exploration
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 03
-
-## 🤖
-
-### Intelligence
-
-Machine Learning
-AI
-Experiments
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 04
-
-## 🚀
-
-### Applications
-
-Dashboards
-Apps
-Solutions
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&hide_border=true&bg_color=ffffff&title_color=635BFF&icon_color=635BFF&text_color=333333&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&hide_border=true&bg_color=ffffff&title_color=635BFF&text_color=333333" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sakshi11dombale&hide_border=true&background=FFFFFF&ring=635BFF&fire=FF6B6B&currStreakLabel=635BFF&sideLabels=444444&dates=777777"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi11dombale&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi11dombale&bg_color=ffffff&color=635BFF&line=635BFF&point=444444&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sakshi11dombale/Sakshi11dombale/output/github-contribution-grid-snake.svg" width="95%"/>
-
-<br>
-
-<sub>Turning contributions into something a little more fun 🐍</sub>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=635BFF&center=true&vCenter=true&width=750&lines=Java+%26+Spring+Boot;Python+%26+Machine+Learning;Data+Science+%26+Analytics;Full-Stack+Development;Building+Real-World+Applications"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`☕ Java`   `🌱 Spring Boot`   `🐍 Python`   `🤖 ML`   `📊 Data`   `🌐 Full Stack`
-
-</div>
-
----
-
-# 💭 A Few Things I Believe
-
-<div align="center">
-
-> ### **Curiosity starts the journey.**
->
-> ### **Projects turn knowledge into experience.**
->
-> ### **Consistency turns experience into growth.**
-
-</div>
-
----
-
-# ✨ The Goal
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=635BFF&center=true&vCenter=true&width=800&lines=Don't+just+write+code.;Build+something+useful.;Don't+just+learn+technology.;Create+something+people+can+use." />
-
-<br><br>
-
-### **Think → Build → Learn → Improve → Repeat**
-
-</div>
-
----
-
-# 🤝 Let's Build Something
-
-<div align="center">
-
-### Have an interesting idea?
-
-### Let's turn it into something real. 🚀
-
-<br>
-
-<a href="https://github.com/Sakshi11dombale">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=635BFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%99"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,14,16,18,20" width="100%"/>
-
-</div>
+### Where my projects
