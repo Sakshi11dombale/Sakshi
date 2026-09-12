@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,16,18,20&text=Sakshi%20Dombale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20%7C%20Data&descAlignY=62&descSize=19" width="100%"/>
+# 👋 Hey, I'm **Sakshi Dombale**
+
+### `Software Developer` · `AI/ML Enthusiast` · `Data Explorer`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=635BFF&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+working+software+%F0%9F%9A%80;I+build+%7C+I+learn+%7C+I+experiment+%F0%9F%92%A1;Java+%7C+Python+%7C+AI%2FML+%7C+Data;Building+projects+that+solve+real+problems." alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=635BFF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Sakshi+%F0%9F%91%8B;I+turn+ideas+into+working+software+%F0%9F%9A%80;Java+%7C+Python+%7C+AI%2FML+%7C+Data;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting;Building+projects+that+solve+real+problems+%E2%9C%A8"/>
-
-<br><br>
-
 <a href="https://github.com/Sakshi11dombale">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
- 
-
-<img src="https://komarev.com/ghpvc/?username=Sakshi11dombale&style=for-the-badge&color=635BFF&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Sakshi11dombale&style=for-the-badge&color=635BFF&label=VISITORS"/>
 
 </div>
 
@@ -24,104 +22,66 @@
 
 <div align="center">
 
-## ✦ Who Am I?
+### ✦ A little about me
 
-### **A developer who learns by building.**
+**Curious mind. Builder at heart. Always learning.**
+
+I enjoy transforming ideas into practical applications while exploring
+**software development, data, artificial intelligence and machine learning.**
 
 <br>
+
+💻 Building   •   🧠 Learning   •   📊 Exploring Data   •   🤖 Experimenting with AI
+
+</div>
+
+---
+
+## ⚡ What I Build
 
 <table>
 <tr>
-
-<td align="center" width="25%">
+<td width="33%" align="center">
 
 ### 💻
 
-**BUILD**
-
-Applications
-Dashboards
-Solutions
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**LEARN**
+**Software**
 
 Java
-Python
-Web
+Backend
+Web Applications
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
 ### 🤖
 
-**EXPLORE**
+**Intelligence**
 
-AI
 Machine Learning
-Automation
+AI
+Python
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
 ### 📊
 
-**ANALYZE**
+**Data**
 
-Data
-Patterns
-Insights
+Analysis
+Visualization
+Forecasting
 
 </td>
-
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🌐 My Developer Universe
-
-<div align="center">
-
-```text
-                              ✦
-                         SAKSHI DOMBALE
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-       ☕ JAVA             🐍 PYTHON           🌐 WEB
-          │                   │                   │
-          │             ┌─────┴─────┐             │
-          │             │           │             │
-          ▼             ▼           ▼             ▼
-       Backend        📊 DATA     🤖 ML       Applications
-          │             │           │             │
-          └─────────────┴─────┬─────┴─────────────┘
-                              │
-                              ▼
-                         🚀 PROJECTS
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-          🎯 GATE         💧 FORECAST       📊 ANALYSIS
-```
-
-</div>
-
----
-
-# 🧰 Technology Arsenal
+# 🧰 My Toolkit
 
 <div align="center">
 
@@ -142,212 +102,239 @@ Insights
 
 <div align="center">
 
-### **Projects are where learning becomes experience.**
+From learning concepts → to building applications
+
+<br>
+
+<table> <tr>
+
+<td width="50%" valign="top">
+
+🎯 GATE Mock App
+
+📚 Education · Android · Java
+
+A mock-test application focused on GATE preparation, question practice and test-based learning.
+
+Tech
+
+Java Android JSON
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/GATE-Mock-App"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+💧 Water Forecasting Dashboard
+
+📊 Data · Forecasting · Visualization
+
+A dashboard project focused on presenting and exploring water forecasting information.
+
+Tech
+
+TypeScript Data Visualization
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/Water-Forecasting-Dashboard"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🤖 Machine Learning
+
+🧠 AI · Machine Learning · Python
+
+A collection of practical machine-learning experiments and implementations.
+
+Tech
+
+Python Jupyter Notebook Machine Learning
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/Machine-Learning-"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📊 Data Analysis
+
+📈 Data · Analytics · Visualization
+
+Hands-on exploration of datasets, patterns and insights using Python-based data analysis tools.
+
+Tech
+
+Python Pandas Jupyter Notebook
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/Data-Analysis-"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🐍 Python Libraries
+
+🔬 Python · Programming · Exploration
+
+A collection of practical work and experiments exploring different Python libraries.
+
+Tech
+
+Python Jupyter Notebook
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/Python-Libraries"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+☕ Java
+
+💻 Programming · OOP · Development
+
+Java programming practice and implementations covering core programming concepts.
+
+Tech
+
+Java
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale/Java-"> <img src="https://img.shields.io/badge/VIEW_PROJECT-635BFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</td>
+
+</tr>
+
+<!-- ADD YOUR REMAINING TWO REPOSITORIES HERE -->
+
+</table>
+
+</div>
+
+🧭 My Projects by Domain
+
+<div align="center">
+
+🧩 Domain	🚀 Projects
+☕ Java / Development	Java · GATE Mock App
+🐍 Python	Python Libraries · Data Analysis
+🤖 AI / ML	Machine Learning
+📊 Data & Visualization	Data Analysis · Water Forecasting Dashboard
+🎓 Education Technology	GATE Mock App
+🌐 Web / Dashboard	Water Forecasting Dashboard
+
+</div>
+
+📌 Project Journey
+
+<div align="center">
+
+                 💡 LEARNING
+                     │
+                     ▼
+              🐍 Python & Java
+                     │
+                     ▼
+              📊 Data Analysis
+                     │
+                     ▼
+             🤖 Machine Learning
+                     │
+                     ▼
+             💻 Application
+               Development
+                     │
+                     ▼
+          🎯 GATE Mock Application
+                     │
+                     ▼
+       💧 Data & Forecasting Dashboard
+                     │
+                     ▼
+                🚀 NEXT BUILD
+
+</div>
+
+# 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&hide_border=true&bg_color=ffffff&title_color=635BFF&icon_color=635BFF&text_color=333333&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&hide_border=true&bg_color=ffffff&title_color=635BFF&text_color=333333" width="38%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Sakshi11dombale&hide_border=true&background=FFFFFF&ring=635BFF&fire=FF6B6B&currStreakLabel=635BFF&sideLabels=555555&dates=777777"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+`Java`   
+`Spring Boot`   
+`Python`   
+`Machine Learning`   
+`Data Science`   
+`Full Stack Development`
 
 </div>
 
 <br>
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
 <div align="center">
 
-# 🎯
-
-## GATE Mock App
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&color=635BFF&center=true&vCenter=true&width=650&lines=One+project+at+a+time.;One+problem+at+a+time.;One+step+closer+to+becoming+a+better+developer+%F0%9F%9A%80" />
 
 </div>
-
-A practice-focused application designed around **GATE preparation, mock tests and question practice**.
-
-**Focus**
-
-`Education` · `Android` · `Java`
-
-**Stack**
-
-`Java` `JSON`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/GATE-Mock-App">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# 💧
-
-## Water Forecasting Dashboard
-
-</div>
-
-A dashboard project focused on **water forecasting and presenting information through visualization**.
-
-**Focus**
-
-`Data` · `Forecasting` · `Dashboard`
-
-**Stack**
-
-`TypeScript`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/Water-Forecasting-Dashboard">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# 🤖
-
-## Machine Learning
-
-</div>
-
-Hands-on exploration of **machine-learning concepts and implementations** using Python.
-
-**Focus**
-
-`AI` · `Machine Learning`
-
-**Stack**
-
-`Python` `Jupyter`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/Machine-Learning-">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# 📊
-
-## Data Analysis
-
-</div>
-
-Exploring datasets, identifying patterns and extracting insights through **data analysis**.
-
-**Focus**
-
-`Data Science` · `Analytics`
-
-**Stack**
-
-`Python` `Pandas` `Jupyter`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/Data-Analysis-">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# 🐍
-
-## Python Libraries
-
-</div>
-
-Practical exploration of different **Python libraries and their capabilities**.
-
-**Focus**
-
-`Python` · `Programming`
-
-**Stack**
-
-`Python` `Jupyter`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/Python-Libraries">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# ☕
-
-## Java
-
-</div>
-
-Java programming work focused on **core programming concepts and development practice**.
-
-**Focus**
-
-`Java` · `OOP`
-
-**Stack**
-
-`Java`
-
-<div align="center">
-
-<a href="https://github.com/Sakshi11dombale/Java-">
-<img src="https://img.shields.io/badge/EXPLORE-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
-# 📊 My Project Landscape
+<div align="center">
+
+# ✨ Let's Build Something
+
+I'm always interested in **learning, collaborating and building meaningful projects.**
+
+<br>
+
+<a href="https://github.com/Sakshi11dombale">
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-635BFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `Think → Build → Learn → Repeat`
+
+</div>
+
+<br>
 
 <div align="center">
 
-### Where my projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18,20"/>
+
+</div>
