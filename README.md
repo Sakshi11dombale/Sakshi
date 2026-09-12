@@ -1,19 +1,215 @@
-# Sakshi Dombale
+<h1 align="center">
+  Hi 👋, I'm Sakshi Dombale
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sakshi11dombale&color=brightgreen&style=flat-square&label=Profile+Views)
+<h3 align="center">
+  💻 Developer | 🤖 AI & ML Enthusiast | 📊 Data Explorer | 🚀 Problem Solver
+</h3>
 
-> Final-year B.Tech Student — Final-year B.Tech student in Artificial Intelligence and Data Science with strong skills in Java, Python, SQL, OOP, DSA, DBMS, and Machine Learning. Experienced in developing Java web applications using JSP, Servlets, JDBC, MySQL, and Apache Tomcat with hands-on experience in data analysis and predictive modeling.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+👋;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Projects+🚀;Exploring+AI+%26+Machine+Learning+🤖;Turning+Ideas+Into+Applications+💡;Always+Learning+Something+New+✨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakshi11dombale&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Sakshi11dombale?label=Followers&style=flat" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Sakshi11dombale?label=Stars&style=flat" alt="stars" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+```java
+public class Sakshi {
+
+    String name = "Sakshi Dombale";
+
+    String[] interests = {
+        "Software Development",
+        "Data Analysis",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Problem Solving"
+    };
+
+    String[] technologies = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Git & GitHub"
+    };
+
+    String currentFocus = "Building practical real-world applications 🚀";
+
+    String mindset = "Learn → Build → Improve → Repeat 🔥";
+}
+```
+
+* 🔭 Currently working on **real-world software projects**
+* 💻 Interested in **Java & Full-Stack Development**
+* 🤖 Exploring **Machine Learning & Artificial Intelligence**
+* 📊 Interested in **Data Analysis & Data Science**
+* 🧠 Always improving my problem-solving skills
+* 🚀 I enjoy turning ideas into useful applications
+* 🌱 Currently expanding my knowledge across modern development technologies
+
+---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-333?style=for-the-badge&logo=reactjs&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-333?style=for-the-badge&logo=jsp&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-333?style=for-the-badge&logo=servlets&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-333?style=for-the-badge&logo=jdbc&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-333?style=for-the-badge&logo=oop&logoColor=white) ![Data Structures and Algorithms (DSA)](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms%20(DSA)-333?style=for-the-badge&logo=datastructuresandalgorithms(dsa)&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-333?style=for-the-badge&logo=dbms&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-333?style=for-the-badge&logo=tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-333?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-333?style=for-the-badge&logo=jupyternotebook&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333?style=for-the-badge&logo=apachetomcat&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-333?style=for-the-badge&logo=maven&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-333?style=for-the-badge&logo=eclipse&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-333?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white)
+### 💻 Programming Languages
 
-## 🌐 Socials
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dombales98@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi11dombale)
+### ⚙️ Development & Frameworks
 
-## 📊 GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+### 🗄️ Databases
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 📊 Data & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎯 GATE Mock App
+
+📚 A Java-based mock test application designed for practicing GATE examination questions.
+
+**Tech:** `Java` `Android` `JSON`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/GATE-Mock-App)
+
+---
+
+### 💧 Water Forecasting Dashboard
+
+📊 A dashboard project focused on water forecasting and data visualization.
+
+**Tech:** `TypeScript` `Data Visualization`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/Water-Forecasting-Dashboard)
+
+---
+
+### 🤖 Machine Learning
+
+🧠 Collection of machine learning experiments and implementations.
+
+**Tech:** `Python` `Jupyter Notebook` `Machine Learning`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/Machine-Learning-)
+
+---
+
+### 📊 Data Analysis
+
+📈 Exploring datasets and extracting meaningful insights through data analysis.
+
+**Tech:** `Python` `Pandas` `Jupyter Notebook`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/Data-Analysis-)
+
+---
+
+### 🐍 Python Libraries
+
+📚 Experiments and practical implementations using Python libraries.
+
+**Tech:** `Python` `Jupyter Notebook`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/Python-Libraries)
+
+---
+
+### ☕ Java Projects
+
+💻 Java programming practice and application development.
+
+**Tech:** `Java`
+
+🔗 [View Repository](https://github.com/Sakshi11dombale/Java-)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sakshi11dombale&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi11dombale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi11dombale&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 💡 What I'm Interested In
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│   ☕ Java & Full-Stack Development       │
+│                                          │
+│   🤖 Artificial Intelligence             │
+│                                          │
+│   🧠 Machine Learning                    │
+│                                          │
+│   📊 Data Science & Analytics            │
+│                                          │
+│   🚀 Real-World Applications             │
+│                                          │
+│   💡 Problem Solving                     │
+│
+```
