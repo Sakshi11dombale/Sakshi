@@ -1,42 +1,19 @@
-## Profile snapshot
+# Sakshi Dombale
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=sakshi11dombale&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202978616%3Fv%3D4" alt="sakshi11dombale hero visual" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Sakshi11dombale&color=brightgreen&style=flat-square&label=Profile+Views)
 
-**Sakshi Dombale** · Frontend or full-stack engineer
+> Final-year B.Tech Student — Final-year B.Tech student in Artificial Intelligence and Data Science with strong skills in Java, Python, SQL, OOP, DSA, DBMS, and Machine Learning. Experienced in developing Java web applications using JSP, Servlets, JDBC, MySQL, and Apache Tomcat with hands-on experience in data analysis and predictive modeling.
 
-## About
+## 🛠️ Tech Stack
 
-Building useful things and learning in public.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-333?style=for-the-badge&logo=reactjs&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-333?style=for-the-badge&logo=jsp&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-333?style=for-the-badge&logo=servlets&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-333?style=for-the-badge&logo=jdbc&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-333?style=for-the-badge&logo=oop&logoColor=white) ![Data Structures and Algorithms (DSA)](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms%20(DSA)-333?style=for-the-badge&logo=datastructuresandalgorithms(dsa)&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-333?style=for-the-badge&logo=dbms&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-333?style=for-the-badge&logo=tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-333?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-333?style=for-the-badge&logo=jupyternotebook&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333?style=for-the-badge&logo=apachetomcat&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-333?style=for-the-badge&logo=maven&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-333?style=for-the-badge&logo=eclipse&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-333?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 👥 **5** followers · **4** following
+## 🌐 Socials
 
-## Proof at a glance
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dombales98@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi11dombale)
 
-<table>
-<tr><td align="center"><b>5</b><br/><sub>repos</sub></td><td align="center"><b>4</b><br/><sub>stars</sub></td><td align="center"><b>36</b><br/><sub>contributions</sub></td></tr>
-</table>
+## 📊 GitHub Stats
 
-## Core toolkit
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-`Jupyter Notebook` ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-## Selected work
-
-- **[Java-](https://github.com/Sakshi11dombale/Java-)** — Featured public work · ⭐ 1
-- **[Data-Analysis-](https://github.com/Sakshi11dombale/Data-Analysis-)** — Featured public work · ⭐ 1
-- **[Machine-Learning-](https://github.com/Sakshi11dombale/Machine-Learning-)** — Featured public work · ⭐ 1
-- **[Python-Libraries](https://github.com/Sakshi11dombale/Python-Libraries)** — Featured public work · ⭐ 1
-- **[ReactJS-Journey](https://github.com/Sakshi11dombale/ReactJS-Journey)** — Featured public work · ⭐ 0
-
-## Let’s connect
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=sakshi11dombale&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202978616%3Fv%3D4" alt="sakshi11dombale social visual" />
-</p>
-
-<a href="https://github.com/sakshi11dombale">GitHub</a>
-
-<p align="center"><sub>Sakshi Dombale · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
