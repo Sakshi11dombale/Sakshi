@@ -232,47 +232,67 @@ Java
 
 </div>
 
-🧭 My Projects by Domain
+# 🧭 My Learning Journey
 
 <div align="center">
 
-🧩 Domain	🚀 Projects
-☕ Java / Development	Java · GATE Mock App
-🐍 Python	Python Libraries · Data Analysis
-🤖 AI / ML	Machine Learning
-📊 Data & Visualization	Data Analysis · Water Forecasting Dashboard
-🎓 Education Technology	GATE Mock App
-🌐 Web / Dashboard	Water Forecasting Dashboard
+<table> <tr>
 
-</div>
+<td align="center">
 
-📌 Project Journey
+01
+☕
+Programming
 
-<div align="center">
+Java
+Python
+OOP
 
-                 💡 LEARNING
-                     │
-                     ▼
-              🐍 Python & Java
-                     │
-                     ▼
-              📊 Data Analysis
-                     │
-                     ▼
-             🤖 Machine Learning
-                     │
-                     ▼
-             💻 Application
-               Development
-                     │
-                     ▼
-          🎯 GATE Mock Application
-                     │
-                     ▼
-       💧 Data & Forecasting Dashboard
-                     │
-                     ▼
-                🚀 NEXT BUILD
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+02
+📊
+Data
+
+Analysis
+Visualization
+Exploration
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+03
+🤖
+Intelligence
+
+Machine Learning
+AI
+Experiments
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+04
+🚀
+Applications
+
+Dashboards
+Apps
+Solutions
+
+</td>
+
+</tr> </table>
 
 </div>
 
