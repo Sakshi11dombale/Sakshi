@@ -276,6 +276,10 @@ Java
 
 </div>
 
+---
+
+<div align="center">
+
 # 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&hide_border=true&bg_color=ffffff&title_color=635BFF&icon_color=635BFF&text_color=333333&rank_icon=github" width="48%"/>
@@ -289,6 +293,15 @@ Java
 </div>
 
 ---
+# 📊 My Project Landscape
+
+<div align="center">
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','Python/Data','Machine%20Learning','Dashboard'],datasets:[{data:[2,2,1,1]}]},options:{plugins:{legend:{position:'bottom'}}}}&width=700&height=350&backgroundColor=white" width="700"/>
+
+</div>
+
+<p align="center"> <i>A snapshot of the six publicly visible projects currently highlighted on my profile.</i> </p>
 
 # 🌱 Currently Exploring
 
