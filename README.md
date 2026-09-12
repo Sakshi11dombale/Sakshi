@@ -1,348 +1,351 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sakshi%20Dombale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<!--                    SAKSHI DOMBALE                         -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+AI+%26+ML+Enthusiast;Java+%7C+Python+%7C+Data+%7C+Web;Building+Real-World+Projects+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<!--              PREMIUM LIGHT PROFILE README                 -->
 
-<p align="center">
-  <a href="https://github.com/Sakshi11dombale">
-    <img src="https://img.shields.io/badge/GitHub-Sakshi11dombale-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sakshi11dombale&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-</p>
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=Sakshi%20Dombale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Data%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=20" width="100%"/>
 
 <br>
 
-<!-- ========================= ABOUT ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=2800&pause=900&color=5865F2&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sakshi+%F0%9F%91%8B;Software+Developer+%7C+AI+%26+ML+Enthusiast;I+build+practical+real-world+applications;Java+%7C+Python+%7C+Data+%7C+Web;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80" />
 
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-  <i>
-    I love turning ideas into practical software solutions.
-  </i>
-</p>
-
-<p align="center">
-  💻 Software Development &nbsp; • &nbsp;
-  🤖 AI / ML &nbsp; • &nbsp;
-  📊 Data &nbsp; • &nbsp;
-  🚀 Real-World Applications
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 👩‍💻 Who Am I?
-
-* 🔭 Building practical software projects
-* 💻 Exploring Java & Full-Stack Development
-* 🤖 Exploring Artificial Intelligence
-* 🧠 Learning Machine Learning
-* 📊 Working with Data & Analytics
-* 🚀 Turning ideas into applications
-* 🌱 Continuously learning new technologies
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 My Approach
-
-```text
-        💡 IDEA
-          │
-          ▼
-       🧠 LEARN
-          │
-          ▼
-       💻 BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-       🚀 DEPLOY
-          │
-          ▼
-       📈 IMPROVE
-          │
-          └─────── 🔁
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&perline=6"/>
-</p>
-
-<h3 align="center">⚙️ Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react&perline=6"/>
-</p>
-
-<h3 align="center">🗄️ Database</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6"/>
-</p>
-
-<h3 align="center">🤖 Data & Machine Learning</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Data-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-<h3 align="center">🔧 Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&perline=6"/>
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 GATE Mock App
-
-A practice application focused on GATE preparation and mock tests.
-
-**Built with**
-
-`Java` `Android` `JSON`
-
-<a href="https://github.com/Sakshi11dombale/GATE-Mock-App">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💧 Water Forecasting Dashboard
-
-A dashboard project focused on water-related forecasting and visualization.
-
-**Built with**
-
-`TypeScript` `Data Visualization`
-
-<a href="https://github.com/Sakshi11dombale/Water-Forecasting-Dashboard">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-A collection of machine-learning experiments and implementations.
-
-**Built with**
-
-`Python` `Jupyter Notebook`
-
-<a href="https://github.com/Sakshi11dombale/Machine-Learning-">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analysis
-
-Exploring datasets, finding patterns and generating insights.
-
-**Built with**
-
-`Python` `Pandas` `Jupyter`
-
-<a href="https://github.com/Sakshi11dombale/Data-Analysis-">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python Libraries
-
-Practical exploration and implementation using Python libraries.
-
-**Built with**
-
-`Python` `Jupyter Notebook`
-
-<a href="https://github.com/Sakshi11dombale/Python-Libraries">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ Java Projects
-
-Java programming experiments and application development.
-
-**Built with**
-
-`Java`
-
-<a href="https://github.com/Sakshi11dombale/Java-">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi11dombale&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi11dombale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sakshi11dombale/Sakshi11dombale/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-  <i>Watch my contributions come alive 🐍</i>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi11dombale&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-<h2 align="center">💭 Developer Mindset</h2>
-
-<p align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       "Don't just learn technology.                 ║
-║        Build something with it." 🚀                 ║
-║                                                      ║
-║              Learn → Build → Fail →                 ║
-║              Learn → Improve → Repeat                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</p>
-
----
-
-<h2 align="center">🌱 Currently Exploring</h2>
-
-<p align="center">
-
-`☕ Java`  
-`🌱 Spring Boot`  
-`🐍 Python`  
-`🤖 Machine Learning`  
-`📊 Data Science`
-
-</p>
-
-<p align="center">
-
-`🌐 Web Development`  
-`🗄️ SQL`  
-`⚡ JavaScript`  
-`🚀 Software Architecture`
-
-</p>
-
----
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
+<br><br>
 
 <a href="https://github.com/Sakshi11dombale">
-<img src="https://img.shields.io/badge/GitHub-Sakshi11dombale-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Sakshi11dombale-24292F?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=Sakshi11dombale&style=flat-square&color=5865F2&label=Profile+Views"/>
 
-<p align="center">
-  <i>💬 Open to learning, collaboration and interesting projects.</i>
-</p>
+</div>
+
+---
+
+## 👋 Hello, World!
+
+I'm **Sakshi Dombale**, a developer who enjoys turning ideas into **useful, practical software**.
+
+My interests sit at the intersection of:
+
+<div align="center">
+
+### 💻 Software Development   •   🤖 AI / ML   •   📊 Data   •   🚀 Innovation
+
+</div>
+
+I enjoy understanding a problem, designing a solution, writing the code, and continuously improving it.
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│       💡 Think        →        🧠 Learn            │
+│                              ↓                     │
+│       🚀 Build        ←        💻 Code            │
+│             ↓                                      │
+│          🧪 Test                                    │
+│             ↓                                      │
+│          📈 Improve                                 │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🧩 What I Work With
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕
+
+### Java
+
+Application Development
+Object-Oriented Programming
+Backend Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+### Python
+
+Data Analysis
+Machine Learning
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+### Data
+
+Data Cleaning
+Visualization
+Exploration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+### Web
+
+HTML
+CSS
+JavaScript
+TypeScript
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+
+<br><br>
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+### Data & ML
+
+<img src="https://skillicons.dev/icons?i=python,jupyter" />
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Keep+Building.+Keep+Learning.+%F0%9F%9A%80" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+
+</div>
+
+---
+
+# 🚀 Selected Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎯 GATE Mock App
+
+A practice-focused application designed to help students prepare through mock tests and question practice.
+
+**Focus**
+
+`Java` · `Android` · `JSON`
+
+<a href="https://github.com/Sakshi11dombale/GATE-Mock-App">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-5865F2?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💧 Water Forecasting Dashboard
+
+A data-oriented dashboard focused on forecasting and visualizing water-related information.
+
+**Focus**
+
+`TypeScript` · `Data Visualization`
+
+<a href="https://github.com/Sakshi11dombale/Water-Forecasting-Dashboard">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-5865F2?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 Machine Learning
+
+A collection of machine-learning experiments, concepts and practical implementations.
+
+**Focus**
+
+`Python` · `Jupyter` · `Machine Learning`
+
+<a href="https://github.com/Sakshi11dombale/Machine-Learning-">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-5865F2?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Data Analysis
+
+Exploring datasets, discovering patterns and extracting meaningful insights.
+
+**Focus**
+
+`Python` · `Pandas` · `Jupyter`
+
+<a href="https://github.com/Sakshi11dombale/Data-Analysis-">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-5865F2?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📈 GitHub at a Glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi11dombale&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5865F2&icon_color=5865F2&text_color=444444&ring_color=5865F2" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi11dombale&layout=compact&hide_border=true&bg_color=ffffff&title_color=5865F2&text_color=444444" height="175"/>
+
+</div>
+
+---
+
+# 🔥 Consistency
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sakshi11dombale&theme=default&hide_border=true&background=FFFFFF&ring=5865F2&fire=FF6B6B&currStreakLabel=5865F2&sideLabels=444444&dates=777777"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi11dombale&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sakshi11dombale/Sakshi11dombale/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<i>Every contribution is a small step toward becoming a better developer.</i>
 </p>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+| Area | Focus                             |
+| :--: | :-------------------------------- |
+|   ☕  | **Java & Backend Development**    |
+|  🌱  | **Spring Boot**                   |
+|  🐍  | **Python**                        |
+|  🤖  | **Machine Learning & AI**         |
+|  📊  | **Data Analysis & Visualization** |
+|  🌐  | **Full-Stack Development**        |
+
+</div>
+
+---
+
+# 💭 My Developer Philosophy
+
+<div align="center">
+
+### *"Build things that solve problems."*
+
+<br>
+
+**Learn something → Build something → Break something → Fix it → Improve it**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=5865F2&center=true&vCenter=true&width=600&lines=Curiosity+drives+learning.;Projects+turn+learning+into+experience.;Consistency+turns+experience+into+growth." />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Sakshi11dombale">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Have an idea? Let's build it. 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+
+### ✨ Thanks for visiting my profile!
+
+**Keep Learning · Keep Building · Keep Growing**
+
+</div>
